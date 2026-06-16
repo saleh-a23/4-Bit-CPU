@@ -1,7 +1,7 @@
 # CPU in Logisim
 
 This project is a simple 4-Bit CPU implemented in Logisim.
-It demonstrates the fundamentals of Computer Architecture and Organization by combining essential components into a working processor.
+It demonstrates the understanding of fundamentals of Computer Architecture by combining essential components into a working processor.
 
 ## Features
 - **Arithmetic and Logic Unit (ALU)**  
